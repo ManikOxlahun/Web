@@ -95,21 +95,21 @@
                         <div class="step">
                             <h1><i class="bi bi-lightbulb"></i></h1>
                             <h3>Somos Innovadores</h3>
-                            <p>Nos apasiona la tecnología y los beneficios que aportan en la eficiencia y sustentabilidad de procesos y sistemas.</p>
+                            <p>Nos apasiona la tecnología y los beneficios que aportan en la eficiencia y sustentabilidad de procesos y sistemas</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="step">
                             <h1><i class="bi bi-magic"></i></h1>
                             <h3>Somos Creativos</h3>
-                            <p>Buscamos satisfacer las necesidades del mundo de hoy desarrollando tecnologías de vanguardia.</p>
+                            <p>Buscamos satisfacer las necesidades del mundo de hoy desarrollando tecnologías de vanguardia</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="step">
                             <h1><i class="bi bi-people"></i></h1>
                             <h3>Tenemos un gran equipo</h3>
-                            <p>Innovar no es cosa de una sola persona, se necesita un gran equipo en cual confiar.</p>
+                            <p>Innovar no es cosa de una sola persona, se necesita un gran equipo en cual confiar</p>
                         </div>
                     </div>
                 </div>
